@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=happydev0126&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=bytenomad092&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <h2 align="center">Software Engineer who is specialized in Full Stack development.</h2>
 
@@ -151,7 +151,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=happydev0126&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=happydev0126&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 ---
 
